@@ -1,6 +1,7 @@
 "use client"
 
 import Box from '@mui/material/Box';
+import Link from "next-intl/link";
 
 export const Navbar = () => {
   return (
@@ -15,7 +16,7 @@ export const Navbar = () => {
         },
       }}
     > 
-    <div className="flex justify-center items-center h-full text-white">App Prueba</div>
+    <div className="flex justify-center items-center h-full text-white"> <Link href="/"> App Prueba </Link> </div>
     </Box>
   )
 }
