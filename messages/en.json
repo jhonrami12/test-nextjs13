@@ -1,0 +1,56 @@
+{
+  "head-meta": {
+    "title": "Vo2vo - Dubbing site",
+    "description": "Dub your audios or videos automatic"
+  },  
+  "company": {
+    "description": "this is the description of the company"
+  },
+  "client": {
+    "example": "this is a example of client component",
+    "button": "Click me!"
+  },
+  "content-example": {
+    "label": "Label ",
+    "description": "this is a descripcion of content"
+  },
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "login": "Login"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "title": "this is the title in English",
+    "dubblingTitle": "Dubbing has never been easier",
+    "dubblingSlogan" : "We make things possible for you",
+    "getStarted": "Get Started",
+    "feature_title" : "AI-Powered Automated Video Dubbing",
+    "feature_speaker_dect" : "Automatic Speaker Detection technology for precise dubbing.",
+    "feature_transcri_translate": "Automated Transcription and Translation to over 80+ languages.",
+    "feature_dubbling":"Automated Dubbing with natural-sounding voice.",
+    "feature_User-friendly":"User-friendly interface for easy navigation and use."
+  },
+  "getStarted":{
+    "commingSoon" : "Coming soon!!",
+    "workingHard" : "We're working hard to get everything ready, and we'll notify you as soon as it's available.",
+    "newsletter" : "Sign up for our newsletter to get updates on our progress:",
+    "email": "Email:",
+    "subscribe" : "Subscribe"
+  },
+  "footer" : {
+    "get-in-touch":"GET IN TOUCH",
+    "contactus":"Contact Us",
+    "email-addres":"E-mail Address",
+    "follow-us":"Follow Us",
+    "languages":"Language"
+  },
+  "languages": {
+    "En" : "English",
+    "Es" : "Spanish"
+  }
+
+}

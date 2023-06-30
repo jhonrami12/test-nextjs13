@@ -1,0 +1,55 @@
+{
+  "head-meta": {
+    "title": "Vo2vo - Sitio de doblaje",
+    "description": "Dobla tus audios o videos automaticamente"
+  },  
+  "company": {
+    "description": "Esta es la descripcion de la compañia"
+  },
+  "client": {
+    "example": "esto es un ejemplo de uso en componentes de cliente",
+    "button": "Pulsar aqui"
+  },
+  "content-example": {
+    "label": "Etiqueta ",
+    "description": "una descripcion del contenido"
+  },
+  "menu": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "contact": "Contacto",
+    "login": "Iniciar Sesión"
+  },
+  "home": {
+    "welcome": "Bienvenido",
+    "title": "Esto es un titulo en español",
+    "dubblingTitle": "El Doblaje nunca fue más fácil",
+    "dubblingSlogan" : "Hacemos que sea posible para ti",
+    "getStarted": "Empieza ahora",
+    "feature_title" : "Doblaje de Video Automatizado Impulsado por IA",
+    "feature_speaker_dect" : "Tecnología de detección automática de voces para un doblaje preciso.",
+    "feature_transcri_translate": "Transcripción y traducción automatizadas a más de 80 idiomas.",
+    "feature_dubbling":"Doblaje automatizado con voz que suena natural.",
+    "feature_User-friendly":"Interfaz fácil de usar para facilitar la navegación y el uso."
+  },
+  "getStarted":{
+    "commingSoon" : "!!Muy Pronto!!",
+    "workingHard" : "Estamos trabajando arduamente para tener todo listo, te notificaremos tan pronto como esté disponible.",
+    "newsletter" : "Suscríbase a nuestro boletín para recibir actualizaciones sobre nuestro progreso:",
+    "email": "Correo Electronico:",
+    "subscribe" : "Suscribirse"
+  },
+  "footer" : {
+    "get-in-touch":"PONERSE EN CONTACTO",
+    "contactus":"Contactanos",
+    "email-addres":"Correo Electronico (E-mail)",
+    "follow-us":"Siguenos",
+    "languages":"Idioma"
+  },  
+  "languages": {
+    "En" : "Ingles",
+    "Es" : "Español"
+  }
+}
