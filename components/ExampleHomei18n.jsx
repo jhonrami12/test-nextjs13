@@ -12,6 +12,11 @@ export function ExampleHomei18n({ locale }) {
       </Link>
       <br />
       <br />
+      <Link href="/videos" style={{ color: "var(--color-link)" }}>
+        Go to Videos test
+      </Link>
+      <br />
+      <br />
       {locale == "es" && (
         <Link href="/" locale="en" style={{ color: "var(--color-link)" }}>
           Switch to English

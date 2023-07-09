@@ -9,3 +9,4 @@ export * from "./InstagramIconCopy";
 export * from "./Navbar";
 export * from "./OtherClient";
 export * from "./ServerCompoExam";
+export * from "./VideoReactPlayer";
